@@ -1,0 +1,14 @@
+{
+  "name": "Įpročių apskaita",
+  "short_name": "Įpročiai",
+  "description": "Asmeninės veiklos stebėjimo sistema. Duomenys saugomi jūsų įrenginyje.",
+  "lang": "lt",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
